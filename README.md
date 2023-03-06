@@ -4,7 +4,7 @@
 - Hi 👋, I'm Allen.
 - I am an engineer.
 - I am passionate about Industrial engineering and using my coding ability to improve the work environment.
-- I’m currently learning Coding(JavaScript and MySQL)
+- I’m currently learning Coding(Vue, JavaScript, Node.js and MySQL)
 - How to reach me allen.li.service@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
