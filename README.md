@@ -7,7 +7,6 @@
 - I am passionate about Industrial engineering and using my coding ability to improve the work environment.
 - I’m currently learning Coding(Vue, JavaScript, Node.js and MySQL)
 - How to reach me: allen.li.service@gmail.com
-- How to know me: www.allenliservice.site
 
 <h3 align="left">Languages and Tools:</h3>
 
