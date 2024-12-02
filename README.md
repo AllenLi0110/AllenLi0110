@@ -1,12 +1,11 @@
-## Hey There is always a better way.
+## Hey There is always a better way. 🚀
 
 ### Introduction
 
 - Hi 👋, I'm Allen.
-- I am an engineer.
-- I am passionate about Industrial engineering and using my coding ability to improve the work environment.
-- I’m currently learning Coding(Vue, JavaScript, Node.js and MySQL)
-- How to reach me: allen.li.service@gmail.com
+- I’m a full-stack engineer passionate about optimizing workflows and improving the work environment through coding.
+- 💻 Currently focused on: Vue 3, JavaScript, Node.js, MySQL
+- 📫 Reach me at: allen.li.service@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
 
