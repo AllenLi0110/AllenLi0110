@@ -4,7 +4,7 @@
 
 - Hi 👋, I'm Allen.
 - I’m a full-stack engineer passionate about optimizing workflows and improving the work environment through coding.
-- 💻 Currently focused on: Vue 3, JavaScript, Node.js, MySQL
+- 💻 Currently focused on: Vue3, TypeScript, Nodejs, AWS
 - 📫 Reach me at: allen.li.service@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
