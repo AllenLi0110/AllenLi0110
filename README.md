@@ -1,4 +1,4 @@
-## Hey There is always a better way. 🚀
+## Hey, there is always a better way. 🚀
 
 ### Introduction
 
