@@ -2,7 +2,7 @@
 
 ### Introduction
 
-- 👋 Hi, I'm Allen.
+- 👋 Hi, I'm Alan.
 - I’m a software engineer passionate about optimizing workflows and improving the work environment through coding.
 - 💻 Currently focused on: Vue3, TypeScript, Nodejs, AWS, ChirpStack(open-source LoRaWAN® Network Server), AT Protocol & ActivityPub
 - 📫 Reach me at: allen.li.service@gmail.com
