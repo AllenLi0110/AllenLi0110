@@ -19,5 +19,5 @@ Blog: https://allenliservice.site
 LeetCode: https://leetcode.com/u/AllenLiEngineer  
 
 ### Contact
-allen.li.service@gmail.com ·  
-https://www.linkedin.com/in/allen-li-service
+Email: allen.li.service@gmail.com
+Linkedin：https://www.linkedin.com/in/allen-li-service
