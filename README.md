@@ -8,7 +8,9 @@ Vue 3 · TypeScript · Node.js · AWS · IoT · gRPC
 
 ### Portfolio
 **Infodeck.io** — Commercial IoT SaaS(https://www.infodeck.io)
+
 **AlphaLab**    — Freelance Project(https://www.alphalab.site)
+
 **AmieRoad**    — Freelance Project(https://www.amieroad.com)
 
 ### Writing
