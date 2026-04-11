@@ -17,6 +17,8 @@ Vue 3 · TypeScript · Node.js · AWS · IoT · gRPC
 
 **AmieRoad**    — Freelance Project(https://www.amieroad.com)
 
+**AllenPortfolio**    — Personal Project(https://allenli0110.github.io/allen-portfolio/)
+
 ### Writing
 Blog: https://allenliservice.site  
 LeetCode: https://leetcode.com/u/AllenLiEngineer  
