@@ -51,5 +51,5 @@ Built an IoT device management platform end-to-end with Vue 3, Node.js, and AWS.
 ### Writing & Contact
 
 Blog: [allenliservice.site](https://allenliservice.site)  
-Email: allen.li.service@gmail.com
+Email: allen.li.service@gmail.com  
 LinkedIn: [allen-li-service](https://www.linkedin.com/in/allen-li-service)
